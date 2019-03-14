@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import ShowSubscribers from './ShowSubscribers';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { HashRouter as Router, Route } from 'react-router-dom';
 import AddSubscriber from './AddSubscriber';
 
 class PhoneDirectory extends Component {
