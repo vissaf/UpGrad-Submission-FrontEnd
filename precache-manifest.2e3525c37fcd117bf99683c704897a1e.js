@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/UpGrad-Submission-FrontEnd/static/js/runtime~main.03bfcc85.js"
   },
   {
-    "revision": "8e04b947d3be8966c781",
-    "url": "/UpGrad-Submission-FrontEnd/static/js/main.2636c2b1.chunk.js"
+    "revision": "0802cbe178bd12e973af",
+    "url": "/UpGrad-Submission-FrontEnd/static/js/main.9e1320b8.chunk.js"
   },
   {
-    "revision": "bfb032c1efdfe9a9704f",
-    "url": "/UpGrad-Submission-FrontEnd/static/js/2.f5401510.chunk.js"
+    "revision": "d02a0b02d0f8c60e8184",
+    "url": "/UpGrad-Submission-FrontEnd/static/js/2.35990cd3.chunk.js"
   },
   {
-    "revision": "8e04b947d3be8966c781",
+    "revision": "0802cbe178bd12e973af",
     "url": "/UpGrad-Submission-FrontEnd/static/css/main.ff715b11.chunk.css"
   },
   {
-    "revision": "2b0502804cd7c6f6173dcae9f4bcceac",
+    "revision": "19a305c1e3f6cc005e302fcb933647dd",
     "url": "/UpGrad-Submission-FrontEnd/index.html"
   }
 ];

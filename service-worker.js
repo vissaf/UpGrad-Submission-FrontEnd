@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/UpGrad-Submission-FrontEnd/precache-manifest.6d391e546cbe303183a794dda2836cf6.js"
+  "/UpGrad-Submission-FrontEnd/precache-manifest.2e3525c37fcd117bf99683c704897a1e.js"
 );
 
 workbox.clientsClaim();
